@@ -1,0 +1,11 @@
+name: GadgetsCore
+version: @version@
+main: io.github.scarger.gadgets.gadgetscore.GadgetsCore
+api-version: 1.13
+prefix: GADGETS
+authors: [scarger]
+description: Adds 3 unique gadgets to the game
+website: https://github.com/scarger
+commands:
+  gadget:
+    description: Opens the gadget menu (to choose a gadget)
